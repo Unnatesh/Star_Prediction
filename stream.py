@@ -316,5 +316,5 @@ elif page == "⚙️ Model Selection & 📉 Results":
 
 
 st.markdown("---")
-st.markdown("Made with 💫 by Unnatesh Hetampuria & Anurag Upadhyay")
+st.markdown("Made with 💫 by Unnatesh Hetampuria")
 st.markdown("Inspired by the beauty of the universe and the mysteries of the cosmos.")
