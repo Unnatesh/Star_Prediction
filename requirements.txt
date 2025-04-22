@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+altair
+plotly
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+xgboost
