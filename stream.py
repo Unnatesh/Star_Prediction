@@ -31,7 +31,7 @@ page = st.sidebar.radio("Go to", [
     "🧹 Preprocessing", 
     "⚙️ Model Selection & 📉 Results", 
 ])
-data = pd.read_csv(r"C:\Users\Unnatesh\Documents\Python Scripts\Star_Prediction\star_classification.csv")
+data = pd.read_csv(r"star_classification.csv")
 
 if page == "🌠 Intro & Dataset":
     # App Title
